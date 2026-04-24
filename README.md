@@ -172,3 +172,7 @@ See full endpoint documentation in [API_DOCS.md](API_DOCS.md).
 ## License
 
 For learning and portfolio use.
+
+## 🚀 Live Demo
+
+🔗 Dashboard: https://ai-powered-career-platform-inky.vercel.app/dashboard
